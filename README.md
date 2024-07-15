@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00BABC&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Raphaël;Welcome+to+my+GitHub+profile!;I+am+a+developer+and+designer;I+love+coding+and+solving+problems!" alt="Typing SVG"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=http://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=00FF41&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects)](https://git.io/typing-svg></a>
 </p>
 
 <br>
