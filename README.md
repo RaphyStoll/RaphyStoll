@@ -1,4 +1,13 @@
-### Quelques statistiques :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats
+
+<div style="line-height:150%;">
+    <br>
+</div>
+
+  <p align="left">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="stats" width="375" height="192px"/>
+  <br/>
+</p>
 
 <br clear="both">
 
