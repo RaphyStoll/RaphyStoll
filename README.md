@@ -8,7 +8,7 @@
 </p>
 --->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="(http://readme-typing-svg.herokuapp.com?font=Fira&pause=700&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects)" alt="Typing SVG" /></a>
+[<a href="https://git.io/typing-svg"><img src="(http://readme-typing-svg.herokuapp.com?font=Fira&pause=700&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects)" alt="Typing SVG" /></a>](http://readme-typing-svg.herokuapp.com?font=Fira&pause=700&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects)
 </p>
 
 <br>
