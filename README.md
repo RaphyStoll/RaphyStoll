@@ -37,7 +37,7 @@
  - **Software & Tools**:
 <p>
 	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=vscode,&theme=light" />
+		<img height="32" src="https://skillicons.dev/icons?i=vscode, photoshop, apple, linux, notion, vim, sqlite&theme=light" />
 	  </a>
 	</p>
 <br><br>
