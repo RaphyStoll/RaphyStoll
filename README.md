@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
 <div style="line-height:150%;">
     <br>
@@ -28,7 +28,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> **Skills**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> **Skills**
 
 <div style="line-height:150%;">
     <br>
@@ -57,7 +57,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   🚧 **This section is under construction and will be updated soon.** 🚧
 </p>
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhsNjVpbGhqbG50bHlkczJiMHVpdzlmdDl1MmFpaDhyc2tueGRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cge9nG7e7wKWbMm9cY/giphy.gif" width="360">
 </div>
 
