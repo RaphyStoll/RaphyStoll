@@ -28,7 +28,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgwa2ZwbmUzbnJnenZyZ3NnamptMXVtNHNxYTAwNjR6YmhmZmV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5VidKAyFYtTJ6/giphy.gif" width="25"><b> Skills</b>
 
 <div style="line-height:150%;">
     <br>
