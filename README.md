@@ -54,35 +54,6 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 ## Cursus at 42 School - Lausanne
 
 <p align="center">
-  <table style="width: 75%; margin-left: auto; margin-right: auto;">
-    <tr>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://github.com/Raphystoll/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://github.com/Raphystoll/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://github.com/Raphystoll/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://profile.intra.42.fr/users/raphystoll"><img src="git_utils/student_card.png" alt="Badge 42" width="100%"></a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="100%">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%"></a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
   🚧 **This section is under construction and will be updated soon.** 🚧
 </p>
 
