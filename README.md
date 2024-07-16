@@ -57,4 +57,51 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
       <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
-        <a href="https://github.com/Raphystoll/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100​⬤
+        <a href="https://github.com/Raphystoll/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
+      </td>
+      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <a href="https://github.com/Raphystoll/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
+      </td>
+      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <a href="https://github.com/Raphystoll/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <a href="https://profile.intra.42.fr/users/raphystoll"><img src="git_utils/student_card.png" alt="Badge 42" width="100%"></a>
+      </td>
+      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%"></a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br><br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
+
+<div style="line-height:150%;">
+    <br>
+</div>
+
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RaphyStoll's Github stats" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Top Languages" width="375" height="192px"/>
+  </div>
+</p>
+
+<br><br>
+
+## Inspirational Quote
+> "The best way to predict the future is to invent it." - Alan Kay
+
+![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Raphystoll.visitor-badge)
