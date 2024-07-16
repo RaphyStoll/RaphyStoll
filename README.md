@@ -32,6 +32,9 @@
 		<img height="32" src="https://skillicons.dev/icons?i=c,python,javascript,typescript, react,html,css&theme=light" />
 	  </a>
 	</p>
+ <br>
+</div>
+ - **Logiciel**:
 
 <br><br>
 
