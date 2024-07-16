@@ -79,7 +79,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <br><br>
 
 ## Inspirational Quote
-> "The best way to predict the future is to invent it." - Alan Kay
+> "You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
 
 ![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
