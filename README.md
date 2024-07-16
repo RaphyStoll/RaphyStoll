@@ -50,8 +50,8 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   </p>
   <br><br>
 </div>
-
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="25"> Cursus at 42 School - Lausanne
+ 
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="25"> Cursus at 42 School - Lausanne <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIxNGdtcXRhdTVmOHFkcDhlNWxyNmJ6NTB3eDR6OHZkdG1tNjM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4yKul05ygtVH9X6Dxx/giphy.gif" width="25">
 
 <p align="center">
   🚧 **This section is under construction and will be updated soon.** 🚧
