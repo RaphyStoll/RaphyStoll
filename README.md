@@ -34,8 +34,12 @@
 	</p>
  <br>
 </div>
- - **Logiciel**:
-
+ - **Software & Tools**:
+<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32" src="https://skillicons.dev/icons?i=vscode,&theme=light" />
+	  </a>
+	</p>
 <br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats
