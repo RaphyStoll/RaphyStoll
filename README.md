@@ -82,6 +82,10 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   </table>
 </p>
 
+<p align="center">
+  🚧 **This section is under construction and will be updated soon.** 🚧
+</p>
+
 <br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
