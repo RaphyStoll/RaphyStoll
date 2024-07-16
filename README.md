@@ -51,14 +51,10 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   <br><br>
 </div>
 
-## My Journey at 42 Lausanne
+## Cursus at 42 School - Lausanne
 
-### Piscine (October 2024)
-The "Piscine" is an intensive and immersive 4-week coding bootcamp that serves as the entrance exam for 42. During this period, I will be working on various coding challenges and projects to prove my problem-solving skills and dedication.
-
-### First Year
-#### Core Curriculum
-In my first year, I will focus on mastering the fundamentals of programming and computer science through a variety of projects and challenges. These projects will help me develop skills in areas such as:
-
-- **C Programming**: Learning the basics of C, memory management, and low-level programming.
-- **Algorithms**: Understanding and implementing common algorithms​⬤
+<p align="center">
+  <table style="width: 75%; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;">
+        <a href="https://github.com/Raphystoll/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100​⬤
