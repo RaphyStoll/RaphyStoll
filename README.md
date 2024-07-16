@@ -79,4 +79,3 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 ![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=RaphyStoll.visitor-badge&left_color=green&right_color=red)
