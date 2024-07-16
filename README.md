@@ -55,6 +55,8 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 <p align="center">
   🚧 **This section is under construction and will be updated soon.** 🚧
+
+  ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhsNjVpbGhqbG50bHlkczJiMHVpdzlmdDl1MmFpaDhyc2tueGRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cge9nG7e7wKWbMm9cY/giphy.gif" width="360">
 </p>
 
 <br><br>
