@@ -35,22 +35,22 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 </div>
 
 - **Languages**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=c,python,javascript,typescript,react,html,css&theme=light" alt="Languages Icons"/>
-	  </a>
-	</p>
- <br>
+  <p>
+    <a href="https://skillicons.dev">
+      <img height="32" src="https://skillicons.dev/icons?i=c,python,javascript,typescript,react,html,css&theme=light" alt="Languages Icons"/>
+    </a>
+  </p>
+  <br>
 
 - **Software & Tools**:
-<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=vscode,vim,docker,photoshop,notion,sqlite&theme=light" alt="Software & Tools Icons"/>
-	  </a>
-	</p>
-<br><br>
+  <p>
+    <a href="https://skillicons.dev">
+      <img height="32" src="https://skillicons.dev/icons?i=vscode,vim,docker,photoshop,notion,sqlite&theme=light" alt="Software & Tools Icons"/>
+    </a>
+  </p>
+  <br><br>
 </div>
-</p>
+
 ## Projects
 ### [Project Name](link_to_project)
 Description of the project and why it's interesting.
@@ -64,6 +64,9 @@ Description of another project and what makes it noteworthy.
 ![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Raphystoll.visitor-badge)
+
+<br><br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
 <div style="line-height:150%;">
@@ -72,7 +75,7 @@ Description of another project and what makes it noteworthy.
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RaphyStoll's Github stats" height="192px"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Top Languages" width="375" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RaphyStoll's Github stats" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Top Languages" width="375" height="192px"/>
   </div>
 </p>
