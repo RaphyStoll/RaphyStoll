@@ -58,13 +58,6 @@ Description of the project and why it's interesting.
 ### [Another Project](link_to_project)
 Description of another project and what makes it noteworthy.
 
-## Inspirational Quote
-> "The best way to predict the future is to invent it." - Alan Kay
-
-![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Raphystoll.visitor-badge)
-
 <br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
@@ -79,3 +72,12 @@ Description of another project and what makes it noteworthy.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Top Languages" width="375" height="192px"/>
   </div>
 </p>
+
+<br><br>
+
+## Inspirational Quote
+> "The best way to predict the future is to invent it." - Alan Kay
+
+![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Raphystoll.visitor-badge)
