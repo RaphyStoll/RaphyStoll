@@ -29,7 +29,7 @@
 - **Languages**:
 	<p>
 	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=c,python,javascript,html5,css&theme=light" />
+		<img height="32" src="https://skillicons.dev/icons?i=c,python,javascript,html,css&theme=light" />
 	  </a>
 	</p>
 
