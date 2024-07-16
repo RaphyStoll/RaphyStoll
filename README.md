@@ -57,8 +57,8 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   🚧 **This section is under construction and will be updated soon.** 🚧
 </p>
 
-<div style="text-align: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhsNjVpbGhqbG50bHlkczJiMHVpdzlmdDl1MmFpaDhyc2tueGRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cge9nG7e7wKWbMm9cY/giphy.gif" width="360">
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhsNjVpbGhqbG50bHlkczJiMHVpdzlmdDl1MmFpaDhyc2tueGRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cge9nG7e7wKWbMm9cY/giphy.gif" width="360" style="margin: 0 auto;">
 </div>
 
 <br><br>
