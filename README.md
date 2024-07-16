@@ -51,7 +51,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   <br><br>
 </div>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgwa2ZwbmUzbnJnenZyZ3NnamptMXVtNHNxYTAwNjR6YmhmZmV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5VidKAyFYtTJ6/giphy.gif" width="25"> Cursus at 42 School - Lausanne
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="25"> Cursus at 42 School - Lausanne
 
 <p align="center">
   🚧 **This section is under construction and will be updated soon.** 🚧
