@@ -12,7 +12,8 @@
 </a>
 <a href="https://badges.pufler.dev">
 <img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
-
+</div>
+<div align=center>
 </a>
 <a href="https://badges.pufler.dev">
 <img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
