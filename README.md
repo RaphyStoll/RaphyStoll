@@ -1,18 +1,39 @@
 <h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align=center>
+<a href="https://dev.to/pujux">
+<img src="https://img.shields.io/github/followers/Raphystoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://img.shields.io/github/stars/Raphystoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/visits/RaphyStoll/README?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/updated/RaphyStoll/badge-it?color=black&logo=github&a=1">
+</a>
+
+</div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="http://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects" alt="Typing SVG">
   </a>
 </p>
-
 <br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
-<div style="line-height:150%;">
-    <br>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
 Hello, I’m Raphael (Raphystoll).
 
@@ -26,7 +47,17 @@ Hello, I’m Raphael (Raphystoll).
 
 Feel free to explore and connect. Let’s build something amazing together! 💻✨
 
-<br><br>
+ </td>
+    <td valign="center" width="30%">
+
+![](Demartini-code.gif)
+
+  </tr>
+</table>
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> **Skills**
 
@@ -48,41 +79,50 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
       <img height="32" src="https://skillicons.dev/icons?i=vscode,vim,docker,photoshop,notion,sqlite&theme=light" alt="Software & Tools Icons"/>
     </a>
   </p>
-  <br><br>
+  <br>
+
+ <br>
+
 </div>
- 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"> Cursus at 42 School - Lausanne
 
 <p align="center">
-  🚧 **This section is under construction and will be updated soon.** 🚧
+
 </p>
 
 <div style="text-align: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhsNjVpbGhqbG50bHlkczJiMHVpdzlmdDl1MmFpaDhyc2tueGRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cge9nG7e7wKWbMm9cY/giphy.gif" width="360">
+
+![](under-construction.gif)
+
 </div>
 
-<br><br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
-<div style="line-height:150%;">
-    <br>
+<div align="center">
+
+</picture>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
+</picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="375" height="192px"/>
+
+</picture>
+
 </div>
-
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RaphyStoll's Github stats" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Top Languages" width="375" height="192px"/>
-  </div>
-</p>
-
-<br><br>
+<div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## Inspirational Quote
+>
 > "You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
-
-![GitHub followers](https://img.shields.io/github/followers/Raphystoll?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Raphystoll?style=social)
-<img src="https://komarev.com/ghpvc/?username=raphystoll&style=flat&color=blue"
-
-#GH-DARK-MODE-ONLy
