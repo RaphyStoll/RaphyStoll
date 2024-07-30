@@ -11,10 +11,11 @@
 <img src="https://badges.pufler.dev/visits/RaphyStoll/README?color=black&logo=github&a=1">
 </a>
 <a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
+<img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
+
 </a>
 <a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
+<img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
 </a>
 <a href="https://badges.pufler.dev">
 <img src="https://badges.pufler.dev/updated/RaphyStoll/badge-it?color=black&logo=github&a=1">
