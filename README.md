@@ -23,16 +23,19 @@
 </a>
 
 </div>
-
+<div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="http://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects" alt="Typing SVG">
   </a>
 </p>
 <br>
+</div>
+<div align=left>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
-
+</div>
+<div>
 <table>
   <tr>
     <td valign="top" width="70%">
@@ -54,18 +57,18 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 ![](Demartini-code.gif)
 
-  </tr>
+ </tr>
 </table>
-
 <br>
 <br>
+</div>
+<div align=left>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> **Skills**
-
-<div style="line-height:150%;">
-    <br>
 </div>
+    <br>
+<div align=left>
 
 - **Languages**:
   <p>
@@ -74,6 +77,8 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
     </a>
   </p>
   <br>
+</div>
+<div align=left>
 
 - **Software & Tools**:
   <p>
@@ -82,14 +87,16 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
     </a>
   </p>
   <br>
-
- <br>
-
 </div>
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
+<div align=left>
+
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"> Cursus at 42 School - Lausanne
+</div>
 
 <p align="center">
 
@@ -100,13 +107,18 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 ![](under-construction.gif)
 
 </div>
-
-<br>
+<div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<div align=left>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
-
+</div>
+<div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 <div align="center">
 
 </picture>
@@ -118,13 +130,16 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="375" height="192px"/>
 
 </picture>
-
 </div>
+
 <div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+</div>
+<div align=left>
 
 ## Inspirational Quote
 >
 > "You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
+</div>
