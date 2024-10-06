@@ -1,28 +1,7 @@
 <h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align=center>
-<a href="https://dev.to/pujux">
-<img src="https://img.shields.io/github/followers/Raphystoll?color=black&logo=github&a=1">
-</a>
-<a href="https://badges.pufler.dev">
-<img src="https://img.shields.io/github/stars/Raphystoll?color=black&logo=github&a=1">
-</a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/visits/RaphyStoll/README?color=black&logo=github&a=1">
-</a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
-</div>
-<div align=center>
-</a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
-</a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/updated/RaphyStoll/badge-it?color=black&logo=github&a=1">
-</a>
+<div align="center">DARK MODE PLEASE</div>
 
-</div>
 <div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -81,7 +60,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <div align=left>
 
 - **Software & Tools**:
-  <p>
+  <p>****
     <a href="https://skillicons.dev">
       <img height="32" src="https://skillicons.dev/icons?i=vscode,vim,docker,photoshop,notion,sqlite&theme=light" alt="Software & Tools Icons"/>
     </a>
@@ -104,7 +83,8 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 <div style="text-align: center;">
 
-![](under-construction.gif)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/raphalme?1337Badge=off&UM6P=off" alt="raphalme's 42 stats" /></a>
+
 
 </div>
 <div>
@@ -155,4 +135,25 @@ Other         48 mins         ▒░░░░░░░░░░░░░░░�
 ## Inspirational Quote
 >
 > "You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
+</div>
+<div align=center>
+<a href="https://dev.to/pujux">
+<img src="https://img.shields.io/github/followers/Raphystoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://img.shields.io/github/stars/Raphystoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/visits/RaphyStoll/README?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/repos/RaphyStoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/years/RaphyStoll?color=black&logo=github&a=1">
+</a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/updated/RaphyStoll/badge-it?color=black&logo=github&a=1">
+</a>
+
 </div>
