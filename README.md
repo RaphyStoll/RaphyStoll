@@ -60,7 +60,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <div align=left>
 
 - **Software & Tools**:
-  <p>****
+  <p>
     <a href="https://skillicons.dev">
       <img height="32" src="https://skillicons.dev/icons?i=vscode,vim,docker,photoshop,notion,sqlite&theme=light" alt="Software & Tools Icons"/>
     </a>
