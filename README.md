@@ -1,15 +1,11 @@
 <h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">DARK MODE PLEASE</div>
-
-<div>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Rapha%C3%ABl;Welcome+to+my+GitHub+profile!;I+love+coding+and+solving+problems!;Check+out+my+latest+projects" alt="Typing SVG">
+<div align="center">
+  <a href="https://github.com/settings/appearance" title="Activer le mode sombre dans vos paramètres GitHub">
+    🌓 DARK MODE PLEASE
   </a>
-</p>
-<br>
 </div>
+
 <div align=left>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
