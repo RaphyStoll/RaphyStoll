@@ -15,17 +15,13 @@
   <tr>
     <td valign="top" width="70%">
 
-Hello, I’m Raphael (Raphystoll).
+Hello, I’m Raphaël (Raphystoll).
 
-🚀 Currently immersed in the dynamic world of technology, I’m a passionate learner and enthusiast of all things tech-related.
+🚀 Passionate about technology, I’m immersed in this dynamic world.
 
-🎓 I’m starting my journey at 42 Lausanne School in October 2024, where I look forward to working on diverse projects that will challenge and expand my programming skills.
+🎓 A student at 42 Lausanne, I explore various fields of development with curiosity and an open mind.
 
-💡 With an open mind and a passion for learning, I’m interested in exploring all areas of development. Although I haven’t specialized yet, I’m eager to dive into various fields and discover where my strengths and passions lie.
-
-🛠️ My goal on GitHub is to share my open-source projects and collaborate with other developers. I believe in the power of community and look forward to the opportunities that come with working together to build something amazing.
-
-Feel free to explore and connect. Let’s build something amazing together! 💻✨
+🛠️ My goal on GitHub is to share my open-source projects and collaborate with other developers. I believe in the power of community to create incredible things together.
 
  </td>
     <td valign="center" width="30%">
@@ -38,6 +34,7 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <br>
 </div>
 <div align=left>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> **Skills**
 </div>
     <br>
@@ -63,43 +60,13 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 </div>
 <div align=left>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"> Cursus at 42 School - Lausanne
-</div>
-
-<p align="center">
-
-</p>
-
-<div style="text-align: center;">
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/raphalme?1337Badge=off&UM6P=off" alt="raphalme's 42 stats" /></a>
-
 
 </div>
 <div align=left>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 </div>
-<div>
 
-</div>
-<div align="center">
-</picture>
-
-
-<picture>
-
-
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture>
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="375" height="192px"/>
-
-</picture>
-</div>
 <div>
   <!--START_SECTION:waka-->
 
@@ -115,11 +82,7 @@ Bash          6 hrs 20 mins   ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </div>
-<div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-</div>
+
 <div align=left>
 
 ## Inspirational Quote
