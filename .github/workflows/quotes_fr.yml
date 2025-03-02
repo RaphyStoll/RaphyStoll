@@ -1,4 +1,4 @@
-name: Update Inspirational Quote
+name: Update citation
 
 on:
   schedule:
