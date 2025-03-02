@@ -35,8 +35,15 @@ jobs:
             }
 
             const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+            console.log('Selected quote:', randomQuote);
+
             const readme = fs.readFileSync(readmePath, 'utf8');
-            const newReadme = readme.replace(/## Inspirational Quote\n\n>.*?\n\n/, '## Inspirational Quote\n\n> ' + randomQuote + '\n\n');
+            console.log('README before update:', readme);
+
+            const quoteSection = `## Inspirational Quote\n<!--START_SECTION:inspirational-quote-->\n> "${randomQuote}"\n<!--END_SECTION:inspirational-quote-->`;
+            const newReadme = readme.replace(/<!--START_SECTION:inspirational-quote-->.*?<!--END_SECTION:inspirational-quote-->/s, quoteSection);
+            console.log('README after update:', newReadme);
+
             fs.writeFileSync(readmePath, newReadme);
           "
 

@@ -87,8 +87,9 @@ Bash          6 hrs 20 mins   ▓░░░░░░░░░░░░░░░�
 <div align=left>
 
 ## Inspirational Quote
->
-> "You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
+<!--START_SECTION:inspirational-quote-->
+
+<!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
 <a href="https://dev.to/pujux">
