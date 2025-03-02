@@ -1,4 +1,3 @@
-
 name: Update Inspirational Quote
 
 on:
@@ -26,17 +25,28 @@ jobs:
         run: |
           node -e "
             const fs = require('fs');
+            const path = require('path');
             const quotes = require('./quotes.json');
+            const readmePath = path.join(process.env.GITHUB_WORKSPACE || '.', 'README.md');
+
+            if (!fs.existsSync(readmePath)) {
+              console.error('README.md not found at:', readmePath);
+              process.exit(1);
+            }
+
             const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-            const readme = fs.readFileSync('README.md', 'utf8');
+            const readme = fs.readFileSync(readmePath, 'utf8');
             const newReadme = readme.replace(/## Inspirational Quote\n\n>.*?\n\n/, '## Inspirational Quote\n\n> ' + randomQuote + '\n\n');
-            fs.writeFileSync('README.md', newReadme);
+            fs.writeFileSync(readmePath, newReadme);
           "
 
       - name: Commit and push changes
-      run: |
-       git config --global user.name 'github-actions[bot]'
-       git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-       git add README.md
-       git diff-index --quiet HEAD || git commit -m 'Update inspirational quote'
-       git push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if [ -f package-lock.json ]; then
+            git add package-lock.json
+          fi
+          git diff-index --quiet HEAD || git commit -m 'Update inspirational quote'
+          git push
