@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const quotes = require('./quotes/quotes.json');
-const readmePath = path.join('.', 'README.md');
+const quotes = require('./quotes/quotes_fr.json');
+const readmePath = path.join('.', 'README_fr.md');
 
 if (!fs.existsSync(readmePath)) {
-  console.error('README.md not found at:', readmePath);
+  console.error('README_fr.md not found at:', readmePath);
   process.exit(1);
 }
 
