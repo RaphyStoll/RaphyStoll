@@ -86,9 +86,10 @@ Bash          6 hrs 20 mins   ▓░░░░░░░░░░░░░░░�
 
 <div align=left>
 
+
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-
+> "The only way to do great work is to love what you do. - Steve Jobs"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
