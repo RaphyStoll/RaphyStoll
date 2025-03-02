@@ -1,12 +1,29 @@
 <h1 align="center"><b>Bonjour, Bienvenue sur mon profil Github!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <div align="center">
   <a href="https://github.com/settings/appearance" title="Activer le mode sombre dans vos paramètres GitHub">
-    🌓 Merci D'etre en DARKMODE
+    🌓 DARK MODE PLEASE
   </a>
 </div>
 
-<div align=left>
+<div align=center>
+<a href="https://github.com/RaphyStoll/Pipex/blob/main/README.md" style="text-decoration:none;">
+  <button style="background-color:#e0f7fa; border:none; cursor:pointer;">
+    🇫🇷 Français
+  </button>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RaphyStoll/Pipex/blob/main/README.eng.md" style="text-decoration:none;">
+  <button style="border:none; cursor:pointer;">
+    🇬🇧 English
+  </button>
+</a>
+
+
+</div>
+
+<div>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **A propos de moi**
 </div>
