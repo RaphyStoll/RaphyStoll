@@ -87,10 +87,6 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 
 </picture>
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphyStoll&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture>
-<picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphyStoll&langs_count=4&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="375" height="192px"/>
 
 </picture>
