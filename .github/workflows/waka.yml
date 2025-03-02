@@ -1,0 +1,95 @@
+name: Waka Readme
+
+
+
+
+
+
+on:
+
+
+  # for manual workflow trigger
+
+
+  workflow_dispatch:
+
+
+  schedule:
+
+
+    # runs at 12 AM UTC (5:30 AM IST)
+
+
+    - cron: "0 0 * * *"
+
+
+
+
+
+jobs:
+
+
+  update-readme:
+
+
+    name: WakaReadme DevMetrics
+
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+
+      - uses: athul/waka-readme@master # this action name
+
+
+        with:
+
+
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+
+          SECTION_NAME: waka
+
+
+          TIME_RANGE: all_time
+
+
+          SHOW_TOTAL: true
+
+
+          SHOW_MASKED_TIME: false
+
+
+          STOP_AT_OTHER: true
+
+
+          IGNORED_LANGUAGES: YAML JSON TOML
+
+
+          CODE_LANG: rust
+
+
+          ##commit
+
+
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+
+
+          TARGET_BRANCH: master # optional
+
+
+          TARGET_PATH: README.md # optional
+
+
+          COMMITTER_NAME: GitHubActionBot # optional
+
+
+          COMMITTER_EMAIL: action-bot@github.com # optional
+
+
+          AUTHOR_NAME: RaphyStoll # optional
+
+
+          AUTHOR_EMAIL: raphystoll@zenithiac.ch # optional
