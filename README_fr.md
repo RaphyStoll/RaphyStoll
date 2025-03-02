@@ -8,13 +8,13 @@
 </div>
 
 <div align=center>
-<a href="https://github.com/RaphyStoll/Pipex/blob/main/README.md" style="text-decoration:none;">
+<a href="https://github.com/RaphyStoll/RaphyStoll/blob/main/README_fr.md" style="text-decoration:none;">
   <button style="background-color:#e0f7fa; border:none; cursor:pointer;">
     🇫🇷 Français
   </button>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/RaphyStoll/Pipex/blob/main/README.eng.md" style="text-decoration:none;">
+<a href="https://github.com/RaphyStoll" style="text-decoration:none;">
   <button style="border:none; cursor:pointer;">
     🇬🇧 English
   </button>
