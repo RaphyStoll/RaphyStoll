@@ -40,8 +40,8 @@ jobs:
             const readme = fs.readFileSync(readmePath, 'utf8');
             console.log('README before update:', readme);
 
-            const quoteSection = `<!--START_SECTION:inspirational-quote-->\n> "${randomQuote}"\n<!--END_SECTION:inspirational-quote-->`;
-            const newReadme = readme.replace(/<!--START_SECTION:inspirational-quote-->.*?<!--END_SECTION:inspirational-quote-->/s, quoteSection);
+            const quoteSection = `> "${randomQuote}"`;
+            const newReadme = readme.replace(/<!--START_SECTION:inspirational-quote-->.*?<!--END_SECTION:inspirational-quote-->/s, `<!--START_SECTION:inspirational-quote-->\n${quoteSection}\n<!--END_SECTION:inspirational-quote-->`);
             console.log('README after update:', newReadme);
 
             fs.writeFileSync(readmePath, newReadme);
