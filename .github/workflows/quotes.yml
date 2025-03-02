@@ -1,1 +1,42 @@
 
+name: Update Inspirational Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Exécute le workflow tous les jours à minuit UTC
+  workflow_dispatch:  # Permet de déclencher manuellement le workflow
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update quote
+        run: |
+          node -e "
+            const fs = require('fs');
+            const quotes = require('./quotes.json');
+            const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const newReadme = readme.replace(/## Inspirational Quote\n\n>.*?\n\n/, '## Inspirational Quote\n\n> ' + randomQuote + '\n\n');
+            fs.writeFileSync('README.md', newReadme);
+          "
+
+      - name: Commit and push changes
+      run: |
+       git config --global user.name 'github-actions[bot]'
+       git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+       git add README.md
+       git diff-index --quiet HEAD || git commit -m 'Update inspirational quote'
+       git push
