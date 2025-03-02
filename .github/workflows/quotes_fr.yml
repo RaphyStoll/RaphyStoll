@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Update quote
-        run: node test_quotes.js  # Exécute le script directement
+        run: node test_quotes_fr.js  # Exécute le script directement
 
       - name: Commit and push changes
         run: |
