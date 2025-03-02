@@ -38,8 +38,6 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <br>
 </div>
 <div align=left>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> **Skills**
 </div>
     <br>
@@ -63,11 +61,6 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
   </p>
   <br>
 </div>
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 <div align=left>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw1ZG55bTl3bHhyNTFqeHI5aXI3OWxqMWhhMzhvdXl5Z2FubHhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"> Cursus at 42 School - Lausanne
@@ -82,10 +75,6 @@ Feel free to explore and connect. Let’s build something amazing together! 💻
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/raphalme?1337Badge=off&UM6P=off" alt="raphalme's 42 stats" /></a>
 
 
-</div>
-<div>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <div align=left>
 
