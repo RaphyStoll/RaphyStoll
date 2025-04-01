@@ -102,7 +102,7 @@ Other         10 hrs 7 mins   █░░░░░░░░░░░░░░░�
 
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-> "Innovation distinguishes between a leader and a follower. - Steve Jobs"
+> "You have many years ahead of you to create the dreams that we can’t even imagine dreaming. - Steven Spielberg"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
