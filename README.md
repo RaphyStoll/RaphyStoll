@@ -86,10 +86,10 @@ Hello, I’m Raphaël (Raphystoll).
   <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 387 hrs 36 mins
+Total Time: 387 hrs 47 mins
 
-C                    282 hrs 13 mins █████████████████▒░░░░░░░   68.94 %
-Makefile             25 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+C                    282 hrs 14 mins █████████████████▒░░░░░░░   68.92 %
+Makefile             25 hrs 26 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 Other                21 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
