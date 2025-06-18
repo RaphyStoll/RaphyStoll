@@ -101,7 +101,7 @@ Other                23 hrs 37 mins  █▒░░░░░░░░░░░░�
 
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-> "Innovation distinguishes between a leader and a follower. - Steve Jobs"
+> "Your time is limited, so don’t waste it living someone else’s life. - Steve Jobs"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
