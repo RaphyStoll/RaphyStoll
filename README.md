@@ -101,7 +101,7 @@ Other                26 hrs 15 mins  █▒░░░░░░░░░░░░�
 
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-> "The only way to do great work is to love what you do. - Steve Jobs"
+> "Your time is limited, so don’t waste it living someone else’s life. - Steve Jobs"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
