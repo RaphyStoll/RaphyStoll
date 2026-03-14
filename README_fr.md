@@ -106,7 +106,7 @@ Bash          6 hrs 20 mins   ▓░░░░░░░░░░░░░░░�
 
 ## Citation
 <!--START_SECTION:inspirational-quote-->
-> "Le plus grand risque est de ne prendre aucun risque. - Mark Zuckerberg"
+> "La meilleure façon de prédire l'avenir est de le créer. - Peter Drucker"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
