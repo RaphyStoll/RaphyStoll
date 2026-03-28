@@ -100,7 +100,7 @@ Other                         79 hrs 58 mins        ██▒░░░░░░�
 
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-> "You have many years ahead of you to create the dreams that we can’t even imagine dreaming. - Steven Spielberg"
+> "The only way to do great work is to love what you do. - Steve Jobs"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
