@@ -100,7 +100,7 @@ Other                         81 hrs 25 mins        ██▓░░░░░░�
 
 ## Inspirational Quote
 <!--START_SECTION:inspirational-quote-->
-> "Innovation distinguishes between a leader and a follower. - Steve Jobs"
+> "The only way to do great work is to love what you do. - Steve Jobs"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
