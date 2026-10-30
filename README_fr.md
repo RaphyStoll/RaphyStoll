@@ -106,7 +106,7 @@ Bash          6 hrs 20 mins   ▓░░░░░░░░░░░░░░░�
 
 ## Citation
 <!--START_SECTION:inspirational-quote-->
-> "Le succès, c'est d'aller d'échec en échec sans perdre son enthousiasme. - Winston Churchill"
+> "Le plus grand risque est de ne prendre aucun risque. - Mark Zuckerberg"
 <!--END_SECTION:inspirational-quote-->
 </div>
 <div align=center>
